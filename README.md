@@ -12,7 +12,7 @@ I consider myself a builder. A PM today has more tools than ever: not just to de
 - 🎨 Design-led. I prototype fast and sweat the details
 - 📊 Data-informed. Decisions should have evidence, not just opinions
 - 🛠️ Builder-PM. Hands on the product, not just the roadmap
-- ✍️ I also write short-form scripts, and care a lot about comedy, pacing, and visual storytelling
+- ✍️ I also enjoy storytelling
 
 ### Where to find me
  
